@@ -29,6 +29,10 @@ The Speaker Accent Recognition Dataset consists of 13 attributes, where feature 
 
 - Experiment with hyperparameter tuning and observe its effects.
 
+--> To see the result for this project in WEKA, Follow the Link: 
+    https://drive.google.com/drive/folders/1tKMMYsrr5JnNKe2zw0jY9L9_8XJq1aiR 
+   
+
  ** This project is for academic purposes for Birzeit University. Feel free to modify and expand upon it! **
 
   
