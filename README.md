@@ -26,3 +26,10 @@ The Speaker Accent Recognition Dataset consists of 13 attributes, where feature 
 To see the results for this project in Weka, follow the link below:
 [View Results] --> https://drive.google.com/drive/folders/19eiHgIF90sK6VLMZz14c2HFY90cCSB8f?usp=drive_link
 
+##  Contributing
+We welcome contributions! If you find an issue or want to enhance the project, feel free to Submit a pull request
+
+##  Contact
+For any inquiries, feel free to reach out:
+- **Email:**(mailto:dana.gassad03@gmail.com)
+
